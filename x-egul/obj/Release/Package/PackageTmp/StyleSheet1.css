@@ -1,0 +1,18 @@
+﻿body {
+}
+
+tr, td {
+    border: 5px groove indigo;
+    color: indigo;
+    text-align: center;
+    vertical-align: central;
+    height: 180px;
+    width: 180px;
+    font-size: 100px;
+    background-color: goldenrod;
+    padding:3px;
+}
+
+.marked {
+    color:maroon;
+}
